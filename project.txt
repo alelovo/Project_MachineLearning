@@ -1,0 +1,5 @@
+- image 
+- neurale network - 5.5.6 Convolutional networks bishop!
+- computer vision boo
+- library keras
+- chat gpt
